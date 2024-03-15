@@ -33,12 +33,20 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+>>> Conclusion: En este user research se ha definido distintos conceptos relacionados con la investigación y recopilación de información de los usuarios de la página web con el fin de determinar cuáles son sus necesidades e intereses y actuar sobre ellos. Se recopila información como el tiempo que pasan en la página web o el tráfico de esta, y se harán surveys a los usuarios sobre cómo poder mejorar su experiencia. Nuestra propia experiencia en este campo es limitada, pero eso no impide que podamos obtener conclusiones positivas de este proyecto.
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+>>> En este competitor analysis hemo buscado empresas, preferiblemente en granda, las cuales ofrecen servicios similares a los de Granaventour. Tras comparar distintas posibilidades, hemos elegido dos empresas rivales con similares servicios y una pagina web disponible:
+Granada Aventura (GA): Empresa de turismo de aventura en Sierra Nevada
+Tropical Extreme (TE): Agencia de Multiaventura y Turismo Activo
+
+Ambas empresas están basadas en Granada, al igual que Granaventour, y 
+ofrecen actividades similares (GA ofrece actividades de nieve y TE actividades más generales). Se han investigado distintos campos en ambas, los cuales incluyen cosas como: Precios, ofertas, material, transporte, monitores… y en casi todos los campos salen con igual o mejor calidad que nuestra empresa.
+
+Granada Aventura, aunque limitada a las actividades de nieve en la sierra, se especializa ofreciendo monitores expertos y material de calidad, haciendo competencia a las actividades de invierno de Granaventour
+Tropical Extreme hace algo similar para el resto de actividades de Granaventour, y además lo hace ofreciendo también ofertas y eventos.
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
@@ -56,8 +64,8 @@ Miembros
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Valoración final (numérica): 62
+>>> - Comentario sobre la valoración:  Como se puede ver, la puntuacion de la pagina es bastante baja. Y aunque parezca que la pagina es "pasable" debido a que su puntacion supera los 50 puntos, esto se debe a que dicha puntuacion se ve elevada por ciertos aspectos que la pagina consigue lograr de forma excelente. La realidad es bastante diferente: La pagina web presenta numerosos errores y fallos, que van desde cosas simples como fotos que faltan, a errores mas graves como un buscador que crashea la pagina al completo, o varias actividades a las que le falta informacion.
 
 
 ## Paso 2. UX Design  
