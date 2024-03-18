@@ -21,10 +21,6 @@ Miembros
 ----- 
 
 
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
-
 # Proceso de Diseño 
 
 ## Paso 1. UX User & Desk Research & Analisis 
@@ -33,12 +29,12 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Conclusion: En este user research se ha definido distintos conceptos relacionados con la investigación y recopilación de información de los usuarios de la página web con el fin de determinar cuáles son sus necesidades e intereses y actuar sobre ellos. Se recopila información como el tiempo que pasan en la página web o el tráfico de esta, y se harán surveys a los usuarios sobre cómo poder mejorar su experiencia. Nuestra propia experiencia en este campo es limitada, pero eso no impide que podamos obtener conclusiones positivas de este proyecto.
+Conclusion: En este user research se ha definido distintos conceptos relacionados con la investigación y recopilación de información de los usuarios de la página web con el fin de determinar cuáles son sus necesidades e intereses y actuar sobre ellos. Se recopila información como el tiempo que pasan en la página web o el tráfico de esta, y se harán surveys a los usuarios sobre cómo poder mejorar su experiencia. Nuestra propia experiencia en este campo es limitada, pero eso no impide que podamos obtener conclusiones positivas de este proyecto.
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> En este competitor analysis hemo buscado empresas, preferiblemente en granda, las cuales ofrecen servicios similares a los de Granaventour. Tras comparar distintas posibilidades, hemos elegido dos empresas rivales con similares servicios y una pagina web disponible:
+En este competitor analysis hemo buscado empresas, preferiblemente en granda, las cuales ofrecen servicios similares a los de Granaventour. Tras comparar distintas posibilidades, hemos elegido dos empresas rivales con similares servicios y una pagina web disponible:
 Granada Aventura (GA): Empresa de turismo de aventura en Sierra Nevada
 Tropical Extreme (TE): Agencia de Multiaventura y Turismo Activo
 
@@ -51,13 +47,12 @@ Tropical Extreme hace algo similar para el resto de actividades de Granaventour,
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+Hemos elegido a estas personas debido a que creemos que representan bien un sector de la audiencia de la empresa más casual pero extenso: Personas las cuales, teniendo unos días libres, quieren realizar alguna actividad de deporte de forma sencilla. Al ser más casual hay más probabilidades de, si les gustan los servicios de la empresa, vuelvan a utilizarlos en sus próximos planes en vez de buscar otras empresas, por lo que es importante que su experiencia de usuario al usar la página web por primera vez sea perfecta.
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+Basándonos en las personas seleccionadas y el estado de la página web, creemos que estas experiencias de usuario son aptas. Los escenarios seleccionados para las personas son bastante comunes en cuanto a motivación para hacer actividades de deporte, y la conclusión sacada de cada Journey Map es la que cabe esperar debido a la mala calidad de la pagina web y de su organización. Por esas razones también creemos que son situaciones habituales.
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
