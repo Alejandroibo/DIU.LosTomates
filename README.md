@@ -58,7 +58,7 @@ Basándonos en las personas seleccionadas y el estado de la página web, creemos
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
+>>> - Enlace al documento: https://github.com/Alejandroibo/DIU.LosTomates/blob/master/P1/Usability%20Review.xlsx
 >>> - Valoración final (numérica): 62
 >>> - Comentario sobre la valoración:  Como se puede ver, la puntuacion de la pagina es bastante baja. Y aunque parezca que la pagina es "pasable" debido a que su puntacion supera los 50 puntos, esto se debe a que dicha puntuacion se ve elevada por ciertos aspectos que la pagina consigue lograr de forma excelente. La realidad es bastante diferente: La pagina web presenta numerosos errores y fallos, que van desde cosas simples como fotos que faltan, a errores mas graves como un buscador que crashea la pagina al completo, o varias actividades a las que le falta informacion.
 
