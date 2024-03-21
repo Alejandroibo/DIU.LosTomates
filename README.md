@@ -34,15 +34,13 @@ Conclusion: En este user research se ha definido distintos conceptos relacionado
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
-En este competitor analysis hemo buscado empresas, preferiblemente en granda, las cuales ofrecen servicios similares a los de Granaventour. Tras comparar distintas posibilidades, hemos elegido dos empresas rivales con similares servicios y una pagina web disponible:
+En este competitor analysis hemos buscado empresas, preferiblemente en Granada, las cuales ofrecen servicios similares a los de Granaventour. Tras comparar distintas posibilidades, hemos elegido dos empresas rivales con similares servicios y una página web disponible:
 Granada Aventura (GA): Empresa de turismo de aventura en Sierra Nevada
 Tropical Extreme (TE): Agencia de Multiaventura y Turismo Activo
 
-Ambas empresas están basadas en Granada, al igual que Granaventour, y 
-ofrecen actividades similares (GA ofrece actividades de nieve y TE actividades más generales). Se han investigado distintos campos en ambas, los cuales incluyen cosas como: Precios, ofertas, material, transporte, monitores… y en casi todos los campos salen con igual o mejor calidad que nuestra empresa.
+Ambas empresas están basadas en Granada, al igual que Granaventour, y ofrecen actividades similares (GA ofrece actividades de nieve y TE actividades más generales) a través de una página web como Granaventour. En el estudio nos hemos centrado en los aspectos de las páginas web, como los formularios, la información que muestran, si tienen una forma fácil de contactar con ellos, etc.
 
-Granada Aventura, aunque limitada a las actividades de nieve en la sierra, se especializa ofreciendo monitores expertos y material de calidad, haciendo competencia a las actividades de invierno de Granaventour
-Tropical Extreme hace algo similar para el resto de actividades de Granaventour, y además lo hace ofreciendo también ofertas y eventos.
+La conclusión que se ha extraído es que Granaventour podría poseer una gran página web de no ser por los numerosos errores que posee. Debido a esto, las páginas web de la competencia automáticamente son más fáciles de usar y tienen más funcionalidad.
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
