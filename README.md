@@ -117,9 +117,7 @@ Debajo de la imagen habra informacion sencilla y concisa sobre los servicios que
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
-
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+[Patrones y Guidelines.pdf](https://github.com/Alejandroibo/DIU.LosTomates/files/15378160/Patrones.y.Guidelines.pdf)
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
