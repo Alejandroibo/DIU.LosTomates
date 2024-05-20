@@ -5,14 +5,14 @@ Grupo: DIU3_11.LosTomates  Curso: 2023/24
 Updated: 15/03/2024
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+El trotamundos
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Es un club de senderismo localizado en Granda que organiza rutas de variada dificultad por los puntos y localizaciones mas interesantes de la comunidad. Abierto a todo aquel que quiera apuntarse. 
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![zarla-sendero-sur-1x1-2400x2400-20220216-hq8c384dgj8vwq4ytc86](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/e48c8551-df0e-447f-8ef2-a833f6b91c1c)
 
 Miembros
  * :bust_in_silhouette:   Alejandro Iborra Morán     :octocat:     
@@ -70,30 +70,15 @@ Basándonos en las personas seleccionadas y el estado de la página web, creemos
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
-
+![Empathy Map](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/c1745f65-3e92-4b3a-b472-c9a50350cb60)
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+![scope_canvas_5_print_es pdf - Page 1 of 1](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/a7fb13f2-f884-49d8-a171-9f6d59185ee9)
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
@@ -118,18 +103,17 @@ Término | Significado
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
+![canvas_moodboard-el-trotamundos-240520_1401](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/cd5b4f12-fd85-42a1-b602-2bc25f568485)
 
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+El logotipo se ha obtenido de la plataforma www.Zarla.com 
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
+![Landing Page](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/3d5e7974-0787-45ee-a5e9-587b4322ae2b)
 
-
->>> Plantear Landing Page 
+La landing page mostrara una imagen atractiva que rapidamente indicara al usuario de que trata la organizacion: Senderismo
+Debajo de la imagen habra informacion sencilla y concisa sobre los servicios que administra la aplicacion.
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
