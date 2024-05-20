@@ -78,28 +78,46 @@ Basándonos en las personas seleccionadas y el estado de la página web, creemos
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
+De las tareas que hemos diseñado, hemos hecho las siguientes tres user flows:
+![Diagram](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/563b7291-86b8-4117-92dd-83a304d254fc)
+![Diagram (1)](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/45284481-833a-4f6c-b8cb-f452b2d0933a)
+![Diagram (2)](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/a257c080-386f-47b7-a64f-b79d125a68b3)
 
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
-
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+Menú   |  	Permite movernos rápidamente por lapágina
+Búsqueda   | 	Busca algo en la página introduciendo el nombre de lo que desea buscar
+Rutas destacadas   | 	Muestra las actividades mejor valoradas y las más realizadas por clientes
+Calendario   | 	"Permite al usuario organizarse y poder ver desde la misma página, los días del mes, cuando hay actividades...
+para organizarse"
+Actividades propuestas   | 	"Muestra las actividades que el usuario ha marcado como que las quiere hacer, y se verán a su vez reflejadas en
+el calendario del usuario"
+Senderos   | 	Listado con todas las rutas que tenemos disponibles
+Horarios   | 	Calendario con todas las rutas, días y horas en las que se realizarán
+Formulario de reserva   | 	Se rellenan los datos para poder hacer la reserva de una actividad
+Galería   | 	Espacio donde todo usuario puede publicar fotos de las rutas que ha realizado
+Preguntas frecuentes   | 	Acceso a preguntas que han tenido otros usuarios con anterioridad y que son frecuentemente preguntadas
+Contactanos   | 	Acceso a la sección de atención al cliente donde podrás ponernos tu pregunta o sugerencia y hacernosla llegar
+Quiénes somos   | 	Si no nos conoces informate sobre quienes somos y a que nos dedicamos
+"Mapa de donde
+encontrarnos"   | 	Muestra un mapa con la ubicación exacta del local en el que nos encontramos
+Inscripción monitor   | 	"Espacio donde quien quiera inscribirse como monitor deberá rellenar un formulario para que podamos valorar
+                            si podemos aceptarte como monitor"
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
-
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
-
+Hemos realizado los siguientes mockups para un posible diseño web:
+![Pagina Principal (1)](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/f6ec54b3-6bf3-4154-b4ec-5b0e79afb150)
+![Ruta (1)](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/f8adf8a3-0820-4464-9216-133c55dda9a6)
+![Quienes Somos (1)](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/aba3c782-76f2-4ca4-8110-66b8df1f7d22)
 
 ## Paso 3. Mi UX-Case Study (diseño)
-
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
