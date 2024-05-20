@@ -44,6 +44,9 @@ La conclusión que se ha extraído es que Granaventour podría poseer una gran p
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
+![Frame 1](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/287831c0-2dd8-47ae-91e2-118558210242)
+
+![Frame 2](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/9123ce55-61c1-4cfd-a3d7-755bd4bf9a37)
 
 Hemos elegido a estas personas debido a que creemos que representan bien un sector de la audiencia de la empresa más casual pero extenso: Personas las cuales, teniendo unos días libres, quieren realizar alguna actividad de deporte de forma sencilla. Al ser más casual hay más probabilidades de, si les gustan los servicios de la empresa, vuelvan a utilizarlos en sus próximos planes en vez de buscar otras empresas, por lo que es importante que su experiencia de usuario al usar la página web por primera vez sea perfecta.
 
