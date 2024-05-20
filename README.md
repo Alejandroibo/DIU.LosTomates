@@ -140,15 +140,16 @@ Debajo de la imagen habra informacion sencilla y concisa sobre los servicios que
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+Link al prototipo movil hi-fi: https://www.figma.com/design/IXqhrVMllWyqOw7Vipcs3y/El-Trotamundos-(LosTomates)?node-id=0-1&t=nyBRF4HGp3Dm8EUf-0
+NOTA: La opcion de presentar da problemas en algunos ordenadores. Probar usando la opcion de preview.
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
+En resumen, tras haber hecho un estudio sobre una pagina de actividades de deporte al aire libre, hemos decidido diseñar una aplicacion, llamada "El Trotamundos", la cual se especialice en la organizacion y realizacion de actividades de senderismo.
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto
+Utilizando los conocimientos obtenidos del estudio al igual que de la asignatura, hemos diseñado las distintas partes de la aplicacion, al igual que su representacion como pagina web para ordenadores y dispotivios moviles, culminando en un prototipo hi-fi de como seria la aplicacion en moviles.
 
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
