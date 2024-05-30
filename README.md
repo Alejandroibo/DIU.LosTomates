@@ -159,7 +159,7 @@ Exportación a HTML/Flutter
 
 ![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
 
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
+>>> Para reclutar a los usuarios, basicamente hemos escogido un personaje ficticio, y una persona real, y para hacer uso de gaze recorder hemos introducido las imagenes del layout del Tipo B, y con el seguimiento de la mirada que hace la página hemos obtenido las zonas a las que ha observado el usuario. (uso de gazerecorder.com)  
 
 Diseño del experimento 
 ----
