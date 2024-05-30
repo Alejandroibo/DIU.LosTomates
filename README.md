@@ -179,8 +179,7 @@ Resultados y valoración
 
 
 >> Cambiar por tus resultados
-file:///home/jesus/Im%C3%A1genes/Capturas%20de%20pantalla/LAYOUT%20INICIO%20SIN%20REGISTRO%20ET%201.png
->> file:///home/jesus/Im%C3%A1genes/Capturas%20de%20pantalla/LAYOUT%20INICIO%20SIN%20REGISTRO%20ET%201-2.png
+
 
 
  
