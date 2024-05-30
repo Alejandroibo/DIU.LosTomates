@@ -183,11 +183,13 @@ Resultados y valoración
 ![LAYOUT INICIO SIN REGISTRO ET 1-2](https://github.com/Alejandroibo/DIU.LosTomates/assets/77152938/38ff5066-63e2-4f71-8a93-d4c67e34e7c7)
 >> ![LAYOUT INICIO SIN REGISTRO ET 2](https://github.com/Alejandroibo/DIU.LosTomates/assets/77152938/3dd0e3fa-a7f2-41c0-bb67-cbacecea6fc4)
 ![LAYOUT INICIO SIN REGISTRO ET 2-2](https://github.com/Alejandroibo/DIU.LosTomates/assets/77152938/3d129bd0-b5de-4e66-be0f-b6d5edf97726)
->> ![LAYOUT INICIO SIN REGISTRO ET 3](https://![LAYOUT INICIO SIN REGISTRO ET 3-2](https://github.com/Alejandroibo/DIU.LosTomates/assets/77152938/b9fa93c6-7810-4673-89e8-07791f23b39e)
-github.com/Alejandroibo/DIU.LosTomates/assets/77152938/4e3cdfe3-cd55-49e2-bf74-4731d4280e78)
+>> ![LAYOUT INICIO SIN REGISTRO ET 3](https://github.com/Alejandroibo/DIU.LosTomates/assets/77152938/ed29be46-e113-48ce-af58-dc671ead5751)
+![LAYOUT INICIO SIN REGISTRO ET 3-2](https://github.com/Alejandroibo/DIU.LosTomates/assets/77152938/b1d8fb36-7444-4b41-a477-624c8da86a02)
+
 ![LAYOUT INICIO Y BUSQUEDA ET 1](https://github.com/Alejandroibo/DIU.LosTomates/assets/77152938/ac8fc54e-4d35-43c2-8248-d7a496bcc464)
-![LAYOUT INICIO Y BUSQUEDA ET 1-2](https://github.com/Alejandroibo/DIU.LosTomates/assets/77152938/f8bce2c6-7e51-4c13![LAYOUT INICIO Y BUSQUEDA ET 2](https://github.com/Alejandroibo/DIU.LosTomates/assets/77152938/791fd45d-7a9a-4af3-8734-2eccad06ac31)
--b763-cf77247a7da7)
+![LAYOUT INICIO Y BUSQUEDA ET 1-2](https://github.com/Alejandroibo/DIU.LosTomates/assets/77152938/4da9759a-72c5-4097-9522-f464fe5834d5)
+![LAYOUT INICIO Y BUSQUEDA ET 2](https://github.com/Alejandroibo/DIU.LosTomates/assets/77152938/67339179-988f-4a9f-9e52-82f44e27c329)
+
 >> ![LAYOUT INICIO Y BUSQUEDA ET 2-2](https://github.com/Alejandroibo/DIU.LosTomates/assets/77152938/6f8fec2d-f5f3-4547-9f00-f0094af508f0)
 ![LAYOUT INICIO Y BUSQUEDA ET 3](https://github.com/Alejandroibo/DIU.LosTomates/assets/77152938/3bcac845-cd8c-4300-8f82-176b1c1def6a)
 >> ![LAYOUT INICIO Y BUSQUEDA ET 3-2](https://github.com/Alejandroibo/DIU.LosTomates/assets/77152938/f4fee4ca-a662-4968-8e0c-bc8c10c81a12)
