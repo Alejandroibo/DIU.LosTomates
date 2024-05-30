@@ -178,7 +178,6 @@ Resultados y valoración
 
 
 
->> Cambiar por tus resultados
 ![LAYOUT INICIO SIN REGISTRO ET 1](https://github.com/Alejandroibo/DIU.LosTomates/assets/77152938/6cf26f1c-e053-4a4d-9efd-8044a185de47)
 ![LAYOUT INICIO SIN REGISTRO ET 1-2](https://github.com/Alejandroibo/DIU.LosTomates/assets/77152938/38ff5066-63e2-4f71-8a93-d4c67e34e7c7)
 >> ![LAYOUT INICIO SIN REGISTRO ET 2](https://github.com/Alejandroibo/DIU.LosTomates/assets/77152938/3dd0e3fa-a7f2-41c0-bb67-cbacecea6fc4)
