@@ -59,6 +59,7 @@ Los 3 primeros usuarios son reales, mientras que el ultimo es ficticio.
 
 Los cuestionarios SUS rellenados se pueden ver en el documento "Conclusiones A/B Test.pdf2"
 Los resultados de los cuestionarios, tras hacer las operaciones, son los siguientes:
+
 	-Fernando: 87.5
 	-Oscar: 95
 	-Alba: 90
