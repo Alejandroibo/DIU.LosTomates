@@ -1,64 +1,38 @@
 # Usability Report
 
 
-
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU" alt="usability Download png" style="zoom:50%;" />
 
 #### Evaluación de usabilidad del proyecto 
 
-### (NOMBRE PROYECTO )
+### Rutas Andalucia
 
-### (Fecha)
+### 30/05/2024
 
+![logoDes](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/b2de1ddf-8585-4f3f-ad80-7481a70d2dd0)
 
-
-
-
-[img Proyecto]
-
-[Enlace a GITHUB del proyecto]
-
-
-
-
+Enlace Github: https://github.com/rn2k00/DIU3.designers?tab=readme-ov-file
 
 ### Realizado por:
 
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
-
-
-
-
-
-
-
-
-
+Alejandro Iborra Morán y Jesús Delgado Ramos
 
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
-[Incluir un breve resumen el propósito de la App]
-
- 
-
-
+Rutas Andalucia es una aplicación para explorar paisajes y reservar rutas por Andalucía.
 
 ## 2 RESUMEN EJECUTIVO
-
-
 
 [ Breve descripción de lo que contiene el documento 
 
 y Resumen conciso de problemas detectados ]
 
+Este documento incluye los resultados de hacer un A/B testing de esta aplicacion frente a otra muy similar, utilizando un cuestionario SUS. Tambien incluye los resultados de hacer eyetracking sobre la aplicacion.
 
-
-
-
-
-
-
+Los problemas encontrados con la aplicacion son bastante simples:
+ -Algunos colores elegidos tienen poco contraste entre si, dificultando un poco la visibilidad
+ -La estructura de la aplicacion es un poco confusa para nuevos usuarios
 
 ## 3 METODOLOGIA 
 
@@ -66,64 +40,62 @@ y Resumen conciso de problemas detectados ]
 
 [Metodología, sesiones,  técnicas aplicadas... ]
 
+Como ya se ha dicho antes, se ha hecho un A/B testing donde los usuarios seleccionados, tras navegar por las aplicaciones, han rellenado un cuestionario SUS. Aparte de eso, a los usuarios asignados al proyecto actual, el B, se les ha hecho una prueba de eyetracking para comprobar el diseño de las paginas en si.
  
-
 #### Test de usuarios: Participantes
 
-[tabla, ejemplo, descripción demográfica de los participantes]
+Los usuarios elegidos han sido los siguientes
 
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Perfil Cubierto | Plataforma | TestA/B
+| ------------- | -------- | ----------- | ----------- | --------------- | ---------- | ----
+| Alba          | H / 19   | Estudiante  | Media       | T3, A5, E3      | móvil      | B 
+| Maria         | H / 20   | Estudiante  | Avanzada    | T2, A1, E1      | móvil      | B
+| Oscar         | M / 49   | Profesor    | Media       | T3, A5, E3      | móvil      | A 
+| Fernando      | H / 33   | Taxista     | Media       | T5, A4, E5      | móvil      | A 
 
-
-
+Los 3 primeros usuarios son reales, mientras que el ultimo es ficticio.
 
 #### Resultados obtenidos
 
+Los cuestionarios SUS rellenados se pueden ver en el documento "Conclusiones A/B Test.pdf2"
+Los resultados de los cuestionarios, tras hacer las operaciones, son los siguientes:
+	-Fernando: 87.5
+	-Oscar: 95
+	-Alba: 90
+	-Maria: 87.5
+
+Haciendo la media, el proyecto A obtiene una puntuación de 91.25, y el proyecto B obtiene una puntuación de 88.75
+La diferencia, aunque pequeña, indica que hay preferencia sobre la aplicación A ante la B. Aun así, las puntuaciones obtenidas de ambas aplicaciones son altas, indicando usabilidad aceptable para ambas aplicaciones.
 
 
-(resultado de SUS)
+El resultado completo del eyetracking se puede ver en el documento "Eyetracking Proyecto B.pdf"
 
+Debido a la simpleza del layout de la aplicación, solo se han elegido las pantallas de la aplicación más importantes, pidiéndole a los usuarios que se fijaran en lo que más llamase la atención.
 
+Las páginas elegidas de la aplicación, y sus AOI, son:
+	-El menu principal: Mis reservas, Ruta destacada, el tiempo
+	-El formulario de registro: Los campos de datos
+	-La informacion de la ruta: La valoracion, el boton de reserva
 
-(resultado de eyetracking)
-
-
-
-
-
-
-
-
+El resultado fue el siguiente: Aunque algunos mapas se ven extraños debido a errores con la aplicación, se puede apreciar bien que ambos usuarios pueden reconocer con facilidad la mayoria de los distintos AOI de las páginas proporcionadas, mostrando un buen diseño, aunque con algunos errores que se podrian mejorar, como la zona del tiempo en la pagina principal no teniendo un buen contraste con el fondo.
 
 ## 4 CONCLUSIONES 
 
-
-
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
-
-
+En conclusion, esta aplicacion tiene un buen diseño, recibiendo altas valoraciones en el cuestionario SUS y unos resultados aceptables en los experimentos con eyetrackig. Los errores que se han descubierto son menores y faciles de arreglar.
 
 #### Incidencias
 
-* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
-
-
+El cuarto usuario tuvo que ser remplazado por uno ficticio debido a que la persona real no estaba disponible.
 
 #### Valoración 
 
-* (Puntos Positivos a destacar)
-
-
+El diseño es simple, y la estructura es facil de entender, por lo que la aplicacion es atractiva y capaz de ser usada por un publico extenso.
 
 #### Recomendaciones y propuesta de mejoras: 
 
-* (Puntos de mejora)
-
-
-
-
-
-
+ -Algunos colores elegidos tienen poco contraste entre si, dificultando un poco la visibilidad
+ -La estructura de la aplicacion es un poco confusa para nuevos usuarios
 
 #### Valoración de la prueba de usabilidad (self-assesment)
 
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
+El cuestionario SUS y sobretodo el eyetracking han sido bastante utiles a la hora de ver los errores de las aplicaciones, ya que muestran como un usuario externo al diseñador visualiza e interactua con la aplicacion.
