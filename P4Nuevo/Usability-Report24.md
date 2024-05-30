@@ -38,8 +38,6 @@ Los problemas encontrados con la aplicacion son bastante simples:
 
 #### Metodología de usabililidad
 
-[Metodología, sesiones,  técnicas aplicadas... ]
-
 Como ya se ha dicho antes, se ha hecho un A/B testing donde los usuarios seleccionados, tras navegar por las aplicaciones, han rellenado un cuestionario SUS. Aparte de eso, a los usuarios asignados al proyecto actual, el B, se les ha hecho una prueba de eyetracking para comprobar el diseño de las paginas en si.
  
 #### Test de usuarios: Participantes
@@ -57,6 +55,8 @@ Los 3 primeros usuarios son reales, mientras que el ultimo es ficticio.
 
 #### Resultados obtenidos
 
+###### Cuestionario SUS
+
 Los cuestionarios SUS rellenados se pueden ver en el documento "Conclusiones A/B Test.pdf2"
 Los resultados de los cuestionarios, tras hacer las operaciones, son los siguientes:
 	-Fernando: 87.5
@@ -67,6 +67,7 @@ Los resultados de los cuestionarios, tras hacer las operaciones, son los siguien
 Haciendo la media, el proyecto A obtiene una puntuación de 91.25, y el proyecto B obtiene una puntuación de 88.75
 La diferencia, aunque pequeña, indica que hay preferencia sobre la aplicación A ante la B. Aun así, las puntuaciones obtenidas de ambas aplicaciones son altas, indicando usabilidad aceptable para ambas aplicaciones.
 
+###### Eyetracking
 
 El resultado completo del eyetracking se puede ver en el documento "Eyetracking Proyecto B.pdf"
 
