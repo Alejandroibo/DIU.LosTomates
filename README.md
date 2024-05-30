@@ -13,7 +13,6 @@ Es un club de senderismo localizado en Granda que organiza rutas de variada difi
 
 Logotipo: 
 ![zarla-sendero-sur-1x1-2400x2400-20220216-hq8c384dgj8vwq4ytc86](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/e48c8551-df0e-447f-8ef2-a833f6b91c1c)
-![file:///home/jesus/Im%C3%A1genes/Capturas%20de%20pantalla/LAYOUT%20INICIO%20SIN%20REGISTRO%20ET%201.png]
 
 Miembros
  * :bust_in_silhouette:   Alejandro Iborra Morán     :octocat:     
@@ -180,10 +179,11 @@ Resultados y valoración
 
 
 >> Cambiar por tus resultados
+![LAYOUT INICIO SIN REGISTRO ET 1](https://github.com/Alejandroibo/DIU.LosTomates/assets/77152938/6cf26f1c-e053-4a4d-9efd-8044a185de47)
+![LAYOUT INICIO SIN REGISTRO ET 1-2](https://github.com/Alejandroibo/DIU.LosTomates/assets/77152938/38ff5066-63e2-4f71-8a93-d4c67e34e7c7)
+>> 
 
 
-
- 
 
 
 
