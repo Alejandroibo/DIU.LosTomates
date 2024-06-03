@@ -202,69 +202,65 @@ Resultados y valoración
 ![LAYOUT RUTAS Y RESERVA  ET 2-2](https://github.com/Alejandroibo/DIU.LosTomates/assets/77152938/854c713d-c6dc-4b6a-815b-b34a29a18a01)
 
 
-
-
-
-
-
 ## Paso 4. Evaluación 
-
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+![logoDes](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/b2de1ddf-8585-4f3f-ad80-7481a70d2dd0)
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Enlace Github: https://github.com/rn2k00/DIU3.designers?tab=readme-ov-file
 
+Rutas Andalucia es una aplicación para explorar paisajes y reservar rutas por Andalucía.
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
+Los usuarios elegidos han sido los siguientes
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Perfil Cubierto | Plataforma | TestA/B
+| ------------- | -------- | ----------- | ----------- | --------------- | ---------- | ----
+| Alba          | H / 19   | Estudiante  | Media       | T3, A5, E3      | móvil      | B 
+| Maria         | H / 20   | Estudiante  | Avanzada    | T2, A1, E1      | móvil      | B
+| Oscar         | M / 49   | Profesor    | Media       | T3, A5, E3      | móvil      | A 
+| Fernando      | H / 33   | Taxista     | Media       | T5, A4, E5      | móvil      | A 
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+Los 3 primeros usuarios son reales, mientras que el ultimo es ficticio.
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+Los cuestionarios SUS rellenados se pueden ver en el documento "Conclusiones A/B Test.pdf2"
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+Estos son los resultados de los cuestionarios SUS:
 
+![Screenshot from 2024-06-03 15-54-28](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/4c3c3e0f-a981-474e-b474-42ae7b946cf2)
+![Screenshot from 2024-06-03 15-54-49](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/e55501f0-092b-4be9-92b5-de3896859c75)
+![Screenshot from 2024-06-03 15-54-37](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/ad11d610-9527-40bd-8792-2baab1034ae7)
+![Screenshot from 2024-06-03 15-54-44](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/065e31da-7cc6-4ce8-a4fe-59ce47c4db4e)
+
+Los resultados de los cuestionarios, tras hacer las operaciones, son los siguientes:
+
+	-Fernando A: 87.5
+	-Oscar A: 95
+	-Alba B: 90
+	-Maria B: 87.5
+
+Haciendo la media, el proyecto A obtiene una puntuación de 91.25, y el proyecto B obtiene una puntuación de 88.75
+La diferencia, aunque pequeña, indica que hay preferencia sobre la aplicación A ante la B. Aun así, las puntuaciones obtenidas de ambas aplicaciones son altas, indicando usabilidad aceptable para ambas aplicaciones.
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
-
->>> Valoración personal 
-
-
-
+Enlace al usability report: https://github.com/Alejandroibo/DIU.LosTomates/blob/master/P4Nuevo/P4_UsabReport_RutasAndalucia_doneby_DIU3_LosTomates.md
 
 
 5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
 ----
 
-
 >> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
 >> con los resultados del A/B testing, de eye tracking y del usability report:
 >>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
-
-
-
-
 
 
 ## Conclusión final / Valoración de las prácticas
