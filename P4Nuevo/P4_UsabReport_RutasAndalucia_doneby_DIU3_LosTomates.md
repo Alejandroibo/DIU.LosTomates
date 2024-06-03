@@ -31,8 +31,10 @@ y Resumen conciso de problemas detectados ]
 Este documento incluye los resultados de hacer un A/B testing de esta aplicacion frente a otra muy similar, utilizando un cuestionario SUS. Tambien incluye los resultados de hacer eyetracking sobre la aplicacion.
 
 Los problemas encontrados con la aplicacion son bastante simples:
- -Algunos colores elegidos tienen poco contraste entre si, dificultando un poco la visibilidad
- -La estructura de la aplicacion es un poco confusa para nuevos usuarios
+
+ -Algunos colores elegidos tienen poco contraste entre si, dificultando un poco la visibilidad. Ante el fondo blanco, hay algunas secciones con un color amarillo muy claro que resultan muy dificiles de diferenciar
+ 
+ -La estructura de la aplicacion puede resultar ligeramente confusa para nuevos usuarios, sobretodo cuando se quiere buscar una actividad, ya que no esta en una seccion aparte.
 
 ## 3 METODOLOGIA 
 
