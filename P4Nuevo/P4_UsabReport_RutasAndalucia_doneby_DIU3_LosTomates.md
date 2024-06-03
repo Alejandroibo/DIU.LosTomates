@@ -24,13 +24,9 @@ Rutas Andalucia es una aplicación para explorar paisajes y reservar rutas por A
 
 ## 2 RESUMEN EJECUTIVO
 
-[ Breve descripción de lo que contiene el documento 
-
-y Resumen conciso de problemas detectados ]
-
 Este documento incluye los resultados de hacer un A/B testing de esta aplicacion frente a otra muy similar, utilizando un cuestionario SUS. Tambien incluye los resultados de hacer eyetracking sobre la aplicacion.
 
-Los problemas encontrados con la aplicacion son bastante simples:
+La aplicacion tiene mucho potencial y esta bien diseñada, pero presenta unos problemas simples que interesaria mejorar:
 
  -Algunos colores elegidos tienen poco contraste entre si, dificultando un poco la visibilidad. Ante el fondo blanco, hay algunas secciones con un color amarillo muy claro que resultan muy dificiles de diferenciar
  
@@ -60,6 +56,14 @@ Los 3 primeros usuarios son reales, mientras que el ultimo es ficticio.
 ###### Cuestionario SUS
 
 Los cuestionarios SUS rellenados se pueden ver en el documento "Conclusiones A/B Test.pdf2"
+
+Estos son los resultados de los cuestionarios SUS:
+
+![Screenshot from 2024-06-03 15-54-28](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/4c3c3e0f-a981-474e-b474-42ae7b946cf2)
+![Screenshot from 2024-06-03 15-54-37](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/ad11d610-9527-40bd-8792-2baab1034ae7)
+![Screenshot from 2024-06-03 15-54-44](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/065e31da-7cc6-4ce8-a4fe-59ce47c4db4e)
+![Screenshot from 2024-06-03 15-54-49](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/e55501f0-092b-4be9-92b5-de3896859c75)
+
 Los resultados de los cuestionarios, tras hacer las operaciones, son los siguientes:
 
 	-Fernando: 87.5
@@ -75,6 +79,16 @@ La diferencia, aunque pequeña, indica que hay preferencia sobre la aplicación 
 El resultado completo del eyetracking se puede ver en el documento "Eyetracking Proyecto B.pdf"
 
 Debido a la simpleza del layout de la aplicación, solo se han elegido las pantallas de la aplicación más importantes, pidiéndole a los usuarios que se fijaran en lo que más llamase la atención.
+
+ALBA:
+![2](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/9a5b8cce-47c4-46b9-8083-4c3b9ffd9430)
+![3](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/ccaa0e55-0a88-46dd-afdd-191a28fa462b)
+![Contacto](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/6aabd0fe-9698-46e5-8e06-410cc933e986)
+
+FERNANDO:
+![LAYOUT INICIO Y BUSQUEDA ET 1](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/291a99f9-051d-4ff4-8a09-0f4b2b7d4f4c)
+![LAYOUT RUTAS Y RESERVA ET 1](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/0df37c9f-f44d-4677-8c9a-c6b44ba2335c)
+![LAYOUT INICIO SIN REGISTRO ET 2](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/0a069073-4e63-43dc-bc38-eb82e3965807)
 
 Las páginas elegidas de la aplicación, y sus AOI, son:
 	-El menu principal: Mis reservas, Ruta destacada, el tiempo
