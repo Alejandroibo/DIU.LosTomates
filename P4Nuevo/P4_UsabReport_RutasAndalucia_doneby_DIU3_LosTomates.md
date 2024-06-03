@@ -60,16 +60,16 @@ Los cuestionarios SUS rellenados se pueden ver en el documento "Conclusiones A/B
 Estos son los resultados de los cuestionarios SUS:
 
 ![Screenshot from 2024-06-03 15-54-28](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/4c3c3e0f-a981-474e-b474-42ae7b946cf2)
+![Screenshot from 2024-06-03 15-54-49](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/e55501f0-092b-4be9-92b5-de3896859c75)
 ![Screenshot from 2024-06-03 15-54-37](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/ad11d610-9527-40bd-8792-2baab1034ae7)
 ![Screenshot from 2024-06-03 15-54-44](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/065e31da-7cc6-4ce8-a4fe-59ce47c4db4e)
-![Screenshot from 2024-06-03 15-54-49](https://github.com/Alejandroibo/DIU.LosTomates/assets/12201331/e55501f0-092b-4be9-92b5-de3896859c75)
 
 Los resultados de los cuestionarios, tras hacer las operaciones, son los siguientes:
 
-	-Fernando: 87.5
-	-Oscar: 95
-	-Alba: 90
-	-Maria: 87.5
+	-Fernando A: 87.5
+	-Oscar A: 95
+	-Alba B: 90
+	-Maria B: 87.5
 
 Haciendo la media, el proyecto A obtiene una puntuación de 91.25, y el proyecto B obtiene una puntuación de 88.75
 La diferencia, aunque pequeña, indica que hay preferencia sobre la aplicación A ante la B. Aun así, las puntuaciones obtenidas de ambas aplicaciones son altas, indicando usabilidad aceptable para ambas aplicaciones.
